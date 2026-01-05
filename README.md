@@ -1,7 +1,6 @@
 # ProdigyInfoTech-CyberSecurity-Internship-Task-03
  Task 03: Password Complexity Checker
-# Prodigy InfoTech – Cyber Security Internship  
-## Task 03: Password Complexity Checker
+
 
 This project is developed as part of the **Prodigy InfoTech Cyber Security Internship**.  
 The objective of this task is to build a **professional password complexity checking tool**
